@@ -1,0 +1,9 @@
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\bin\Debug\netstandard1.6\TestReceiveFromIoTHub.deps.json
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\bin\Debug\netstandard1.6\TestReceiveFromIoTHub.runtimeconfig.json
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\bin\Debug\netstandard1.6\TestReceiveFromIoTHub.runtimeconfig.dev.json
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\bin\Debug\netstandard1.6\TestReceiveFromIoTHub.dll
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\bin\Debug\netstandard1.6\TestReceiveFromIoTHub.pdb
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\obj\Debug\netstandard1.6\TestReceiveFromIoTHub.csprojResolveAssemblyReference.cache
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\obj\Debug\netstandard1.6\TestReceiveFromIoTHub.AssemblyInfo.cs
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\obj\Debug\netstandard1.6\TestReceiveFromIoTHub.dll
+C:\Users\olavt\Documents\Visual Studio 2017\Projects\TestReceiveFromIoTHub\TestReceiveFromIoTHub\obj\Debug\netstandard1.6\TestReceiveFromIoTHub.pdb
